@@ -1,0 +1,16 @@
+creating_dataset/dataset/
+creating_dataset/dataset_small/
+creating_dataset/defect_masks/
+creating_dataset/defect_masks_gen/
+creating_dataset/artbench-10-imagefolder/
+creating_dataset/*.zip
+defect_segmentation/content_segformer/
+defect_segmentation/content_unet/
+defect_segmentation/res_segformer/
+defect_segmentation/res_unet/
+inpainting_evaluation/gt/
+inpainting_evaluation/results/
+train_inpainting/output/
+.venv/
+*/.venv/
+.DS_Store

@@ -1,0 +1,11 @@
+===> Loading datasets
+Total instance number: 285
+===> Loaded datasets
+Calculating image quality metrics ...
+Avg. SSIM: 0.92139732837677 
+Avg. PSNR: 28.26445960998535 
+Avg. L1: 0.015845324844121933 
+Avg. L2: 0.004517187364399433 
+
+285
+Average processing time for each image (of total 285 images): 0.12146285625926236 s
